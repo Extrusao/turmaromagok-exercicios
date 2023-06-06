@@ -1,1 +1,3 @@
-oie esse é o meu primeiro projeto em git
+A longa história da GIT do Kaynão:
+
+Começou assim,
